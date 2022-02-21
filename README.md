@@ -1,1 +1,1 @@
-The realization of this repository allowed me to familiarize myself with the version control system that is the "Git"
+This Readme.md file has been updated through the Github GUI. 
